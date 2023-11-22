@@ -1,4 +1,4 @@
-# sign-language-detector-python
+# Hand Hesture Recognition For deaf and physically impaired
 
 Sign language detector with Python, OpenCV and Mediapipe !
 
